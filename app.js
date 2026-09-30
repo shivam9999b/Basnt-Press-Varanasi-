@@ -6,7 +6,7 @@
 const SUPABASE_URL = "https://ubsyhqkefhtskxjpjzbf.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_hCW9e5LLUWNnQaKDxCP5eg_1tUpo5Tr";
 const CLOTH_IMAGE_BUCKET = "cloth-images";
-const WHATSAPP_NUMBER = "799161750"; // <-- YAHAN APNA NUMBER DAAL BINA + KE
+const WHATSAPP_NUMBER = "7991617570"; // <-- YAHAN APNA NUMBER DAAL BINA + KE
 
 let supabaseClient = null;
 let serviceGrid;
